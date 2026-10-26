@@ -1,0 +1,12 @@
+# Upload only the three final programs and the README files.
+/*
+!/.gitignore
+!/README.md
+!/Q1_Final/
+!/Q2_Final/
+!/Q3_Final/
+
+# Never upload generated files
+__pycache__/
+*.pyc
+*.csv
