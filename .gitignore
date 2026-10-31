@@ -5,8 +5,10 @@
 !/Q1_Final/
 !/Q2_Final/
 !/Q3_Final/
+!/charts/
 
 # Never upload generated files
 __pycache__/
 *.pyc
 *.csv
+*.png

@@ -7,11 +7,12 @@ Source code for the three programs of the 5022CMD Advanced Algorithms portfolio.
 | [`Q1_Final`](Q1_Final) | Q1 | Hash table (open addressing, linear probing) for a pharmacy inventory, with a hash table vs 1D array search experiment |
 | [`Q2_Final`](Q2_Final) | Q2 | Generic directed graph used for a university course-prerequisite system |
 | [`Q3_Final`](Q3_Final) | Q3 | Recursive Fibonacci with and without multithreading, timed over ten rounds |
+| [`charts`](charts) | Report | Script that draws the line charts in the report (Figures 1.13(b) and 3.8) from the measured results |
 
 ## Requirements
 
 - Python 3.10 or later (tested with Python 3.14.7)
-- No external libraries
+- No external libraries for the three programs (`charts/make_charts.py` needs matplotlib)
 
 ## How to run
 
